@@ -1,2 +1,5 @@
-# skills-apis
-List and descriptions of Api in  with code examples 
+# A human centric skills data space
+
+We have a common goal to unite the organisations around Europe to build a human centric skills data space. Skills data ecosystem for the development of services related to work & skills. 
+
+## Here we have list and descriptions of known Apis with some code examples.  
