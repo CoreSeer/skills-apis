@@ -6,4 +6,4 @@ We have a common goal to unite the organisations around Europe to build a human 
 
 * [ESCO](./docs/apis/ESCO.md)
 * [Occupational Information Network ONET](./docs/apis/ONET.md)
-* [Europass Digital Credentials](./docs/EuropassDigitalCredentials.md)
+* [Europass Digital Credentials](./docs/apis/EuropassDigitalCredentials.md)
